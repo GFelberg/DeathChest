@@ -1,0 +1,9 @@
+name: DeathChest
+version: 1.0
+author: GFelberg
+api-version: 1.19
+main: me.GFelberg.DeathChest.Main
+commands:
+  deathchest:
+    usage: /<command>
+    aliases: [dc]

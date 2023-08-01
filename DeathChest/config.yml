@@ -1,0 +1,34 @@
+# Plugin developed by GFelberg
+# Config.yml
+
+# language: en
+# Thanks for downloading my plugin. For more plugins, dont forget to look my updates!
+# If you find any bugs or ideas to the plugin, pm me at spigot.
+
+# language: br/pt
+# Obrigado por baixar meu plugin. Para mais plugins, não esqueça de olhar as atualizações!
+# Se você encontrar algum problema ou ter alguma ideia para o plugin, pm no spigot.        
+
+# Permissions
+
+# deathchest.admin : Access to the DeathChest command, Admin Help Page and to Reload the Plugin
+
+# PlaceHolders
+
+# %x% : Gets the specified 'X' location
+# %y% : Gets the specified 'Y' location
+# %z% : Gets the specified 'Z' location
+
+# Configuration 1.0
+# This configuration will display the DeathChest Messages
+
+DeathChest:
+  Prefix: '&b[&eDeathChest&b]&r'
+  MessageLocation: '&aChest Location: &eX [&b%x%&e] / &eY [&b%y%&e] / &eZ [&b%z%&e]'
+  
+# Configuration 1.1
+# This configuration will display the Help Page Messages
+
+Help:
+  Page: '&eShows this page'
+  Reload: '&eReloads the Plugin'  
