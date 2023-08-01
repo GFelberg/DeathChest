@@ -57,7 +57,7 @@ public class DeathChestEvents implements Listener {
 			summonSingleChest(p, x, y, z);
 			player_items.remove(p.getUniqueId());
 			p.sendMessage(DeathChestUtils.message.replace("%x%", String.valueOf((int) x))
-					.replace("%y%", String.valueOf((int) x)).replace("%z%", String.valueOf((int) x)));
+					.replace("%y%", String.valueOf((int) y)).replace("%z%", String.valueOf((int) z)));
 			return;
 		} else {
 			summonSingleChest(p, x, y, z);
@@ -71,7 +71,7 @@ public class DeathChestEvents implements Listener {
 
 			player_items.remove(p.getUniqueId());
 			p.sendMessage(DeathChestUtils.message.replace("%x%", String.valueOf((int) x))
-					.replace("%y%", String.valueOf((int) x)).replace("%z%", String.valueOf((int) x)));
+					.replace("%y%", String.valueOf((int) y)).replace("%z%", String.valueOf((int) z)));
 		}
 	}
 
