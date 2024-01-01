@@ -36,10 +36,11 @@ DeathChest é plugin simples desenvolvido para o Minecraft que fornece uma manei
     /dc help : Mostrar a Página de Ajuda
     /dc reload : Recarregar o Plugin
   
-### Permissions:
-    deathchest.admin : Acesso para o comando DeathChest, Página de Ajuda dos Administradores e Recarregar o Plugin
+### Permissões:
+    deathchest.admin : Acesso para o comando DeathChest, Página de Ajuda dos Administradores 
+    e Recarregar o Plugin
 
-### PlaceHolders:
+### Placeholders:
     O plugin possui algumas placeholders. Não é necessário nenhuma dependência de plugin externo.
 
     %x% : Recupera a localização específica do valor de 'X'
