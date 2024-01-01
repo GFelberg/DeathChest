@@ -1,7 +1,7 @@
-# DeathChest
+# DeathChest ☠️
 
 ## English: :earth_americas:
-DeathChest is a simple plugin which provides a way to store the items into chests after player's death.
+DeathChest is a simple plugin made for Minecraft which provides a way to store the items into chests after player's death.
 
 ![GIF](https://github.com/GFelberg/DeathChest/assets/41524430/8168b7ae-d855-4939-9a44-d9ab863578e7)
 
@@ -13,6 +13,8 @@ DeathChest is a simple plugin which provides a way to store the items into chest
     deathchest.admin : Access to the DeathChest command, Admin Help Page and to Reload the Plugin
 
 ### PlaceHolders:
+    The plugin has some placeholders. It doesnt needs to have any plugin dependency.
+
     %x% : Gets the specified 'X' location
     %y% : Gets the specified 'Y' location
     %z% : Gets the specified 'Z' location
@@ -20,12 +22,13 @@ DeathChest is a simple plugin which provides a way to store the items into chest
 ### Available for download at Spigot: (Creating)
 
 ### Images:
-![Imagem1](https://github.com/GFelberg/DeathChest/assets/41524430/628468fc-0383-4635-b6ca-f77a9742ae90)
 
-![Imagem2](https://github.com/GFelberg/DeathChest/assets/41524430/c0ba36c5-6bdd-4dc6-8aa2-7470d90aea43)
+![1](https://github.com/GFelberg/DeathChest/assets/41524430/67bc0284-765f-4bfb-ae96-4abbd83e97e2)
+
+![2](https://github.com/GFelberg/DeathChest/assets/41524430/4c530198-bf1e-40ac-9794-b2f7f9b0832d)
 
 ## Portuguese: <img src="https://github.com/GFelberg/DeathChest/assets/41524430/6a5c428f-c21f-4a3f-a441-67321dd93282" width="30" height="30">
-O DeathChest é plugin simples que fornece uma maneira de armazenar os items em baús após a morte do jogador.
+DeathChest é plugin simples desenvolvido para o Minecraft que fornece uma maneira de armazenar os items em baús após a morte do jogador.
 
 ![GIF](https://github.com/GFelberg/DeathChest/assets/41524430/8168b7ae-d855-4939-9a44-d9ab863578e7)
 
@@ -37,13 +40,16 @@ O DeathChest é plugin simples que fornece uma maneira de armazenar os items em 
     deathchest.admin : Acesso para o comando DeathChest, Página de Ajuda dos Administradores e Recarregar o Plugin
 
 ### PlaceHolders:
+    O plugin possui algumas placeholders. Não é necessário nenhuma dependência de plugin externo.
+
     %x% : Recupera a localização específica do valor de 'X'
     %y% : Recupera a localização específica do valor de 'Y'
     %z% : Recupera a localização específica do valor de 'Z'
 
-### Disponível para download no Spigot: (Creating)
+### Disponível para download no Spigot: (A ser criado)
 
 ### Imagens:
-![Imagem1](https://github.com/GFelberg/DeathChest/assets/41524430/628468fc-0383-4635-b6ca-f77a9742ae90)
 
-![Imagem2](https://github.com/GFelberg/DeathChest/assets/41524430/c0ba36c5-6bdd-4dc6-8aa2-7470d90aea43)
+![1](https://github.com/GFelberg/DeathChest/assets/41524430/67bc0284-765f-4bfb-ae96-4abbd83e97e2)
+
+![2](https://github.com/GFelberg/DeathChest/assets/41524430/4c530198-bf1e-40ac-9794-b2f7f9b0832d)
