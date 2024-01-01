@@ -12,7 +12,7 @@ DeathChest is a simple plugin made for Minecraft which provides a way to store t
 ### Permissions:
     deathchest.admin : Access to the DeathChest command, Admin Help Page and to Reload the Plugin
 
-### PlaceHolders:
+### Placeholders:
     The plugin has some placeholders. It doesnt needs to have any plugin dependency.
 
     %x% : Gets the specified 'X' location
