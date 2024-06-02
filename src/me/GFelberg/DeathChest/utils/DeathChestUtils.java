@@ -8,11 +8,12 @@ import me.GFelberg.DeathChest.Main;
 
 public class DeathChestUtils {
 
-	public static String prefix, message;
+	public static String prefix, message, nobreak;
 
 	public static void loadVariables() {
 		prefix = Main.getInstance().getConfig().getString("DeathChest.Prefix").replace("&", "§");
 		message = Main.getInstance().getConfig().getString("DeathChest.MessageLocation").replace("&", "§");
+		nobreak = Main.getInstance().getConfig().getString("DeathChest.NoBreak").replace("&", "§");
 	}
 
 	public void reloadConfig(Player p) {

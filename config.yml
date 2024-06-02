@@ -25,6 +25,7 @@
 DeathChest:
   Prefix: '&b[&eDeathChest&b]&r'
   MessageLocation: '&aChest Location: &eX [&b%x%&e] / &eY [&b%y%&e] / &eZ [&b%z%&e]'
+  NoBreak: '&cYou cant break this chest!'
   
 # Configuration 1.1
 # This configuration will display the Help Page Messages
